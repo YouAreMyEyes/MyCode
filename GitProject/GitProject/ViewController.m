@@ -16,12 +16,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+
     // Do any additional setup after loading the view, typically from a nib.
     
     
     
     
     //weeqdsa
+
+  ///1234567899大家好   我来测试下
+
 }
 
 - (void)didReceiveMemoryWarning {
